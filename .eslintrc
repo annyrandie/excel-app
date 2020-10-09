@@ -9,6 +9,7 @@
   "rules": {
     "comma-dangle ": "off",
     "arrow-parens": "off",
-    "require-jsdoc": "off"
+    "require-jsdoc": "off",
+    "no-debugger": "off"
   }
 }
